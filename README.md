@@ -1,6 +1,6 @@
 # origo
 
-A new Flutter project.
+Professional Networking App
 
 ## Getting Started
 
